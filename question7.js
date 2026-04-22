@@ -12,3 +12,4 @@ function formatName(firstName, lastName) {
     return `${formattedLast}, ${formattedFirst}`;
 }
 console.log(formatName("  olatomide  ", "  ABORISADE  "));    
+
