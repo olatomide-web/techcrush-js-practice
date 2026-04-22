@@ -36,3 +36,4 @@ const studentArray = [
 
 const result = summarizeStudent(studentArray);
 console.log(result);
+
